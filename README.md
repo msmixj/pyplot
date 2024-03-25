@@ -1,3 +1,6 @@
+SUSIE SMITH
+Course: Web Mining & Applied NLP
+
 # Matplotlib and pyplot
 
 Complete the tasks in the Python Notebook in this repository.
